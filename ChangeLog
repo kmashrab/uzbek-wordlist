@@ -1,0 +1,76 @@
+2006-09-17  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-6
+
+	* Added directory aspell and hunspell to make Uzbek
+	dictionaries for corresponding spellchecking tools.
+
+	* uzbek.wordlist: Corrected a few misspelled words
+	and added some new words. Word-list has 97000 words.
+	Several common endings were added to names, places,
+	numbers etc. Therefore, there are so many new words this
+	time.
+
+	* README: Add www.ferghana.ru as a source for word-list.
+	Removed a copyright note to Copyright file.
+
+	* Copyright: Added this file.
+
+	* TODO: Added this file.
+
+2005-11-26  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-5
+
+	* Changed versioning scheme to x-y.
+
+	* uzbek.wordlist: Corrected a few misspelled words
+	and added some new words. Word-list has 36000 words.
+
+	* COPYING: Corrected FSF address. 
+
+2005-04-10  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-0-4
+
+	* uzbek.wordlist: Corrected a few misspelled words
+	and added some new words. Word-list has 31000 words.
+
+	* tools/{cp1251toutf8.sh,
+	         htmlcp1251toutf8.sh,
+		 new_words.pl,
+	         split_into_words.pl}: Added these handy scripts.
+
+	* todo.wordlist: Added. A bunch of words one has to work on.
+
+	* blacklist.wordlist: Added. A bunch of words one has to
+	discard while making a wordlist. They are usually non-Uzbek
+	names, misspelled words etc.
+
+	* README: Modified accordingly.
+
+2005-01-16  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-0-3
+
+	* uzbek.wordlist: Corrected a few misspelled words
+	and added some new words. Word-list has 27100 words.
+
+	* README: Updated section 'Source'.
+
+2004-07-17  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-0-2
+
+	* uzbek.wordlist: Added some new words, removed second
+	names - it is a mess. Word-list has 21795 words.
+
+	* README: Added section 'Source'.
+
+2004-05-17  Mashrab Kuvatov  <kmashrab@uni-bremen.de>
+
+	* v-0-0-1
+	
+	* ChangeLog, COPYING, README, uzbek.wordlist: Initial
+	release. Word-list has 20634 words.
+

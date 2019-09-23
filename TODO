@@ -1,0 +1,7 @@
+VERSION 0.7
+
+	* Split names, places, numbers and such into separate files. Use only word
+	root for such word-lists. Then, through some script add common endings
+	to those word-lists.
+
+	* Start using affix file for Aspell and Hun spell.

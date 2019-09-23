@@ -1,0 +1,19 @@
+name_english Uzbek
+name_native Ўзбекча
+lang uz
+data-file l-uz.cset
+data-file l-uz.cmap
+author:
+  name Mashrab Kuvatov
+  name_native Машраб Қуватов
+  email kmashrab at uni dash bremen de
+copyright GPL
+url https://github.com/kmashrab/uzbek-wordlist
+complete false
+accurate true
+version 0.7-0
+source-version 0.7
+alias uz uzbek
+dict:
+  name uz
+  add uz
