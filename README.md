@@ -12,16 +12,16 @@ Mashrab Kuvatov <kmashrab at uni dash bremen dot de>
 
 Files:
 
-README             - this file.
-COPYING            - a copy of GNU GENERAL PUBLIC LICENSE.
-ChangeLog          - a change log.
-todo.wordlist      - a word-list one has to sort out.
-blacklist.wordlist - a list of words one has to descard.
-uzbek.wordlist     - an Uzbek word-list.
-tools              - a dir with some handy scripts to make a word-list.
-aspell             - a dir with necessary files to make an Uzbek
+- README             - this file.
+- COPYING            - a copy of GNU GENERAL PUBLIC LICENSE.
+- ChangeLog          - a change log.
+- todo.wordlist      - a word-list one has to sort out.
+- blacklist.wordlist - a list of words one has to descard.
+- uzbek.wordlist     - an Uzbek word-list.
+- tools              - a dir with some handy scripts to make a word-list.
+- aspell             - a dir with necessary files to make an Uzbek
                      dictionary for the GNU Aspell spell checker.
-hunspell           - a dir with necessary files to make an Uzbek
+- hunspell           - a dir with necessary files to make an Uzbek
                      dictionary for the Hunspell spell checker.
 
 Source:
@@ -29,16 +29,16 @@ Source:
 There are two sources I used to compile this word-list; web-sites
 and people who sent me all kinds of documents in Cyrillic Uzbek.
 
-   Web-sites:
+Web-sites:
 
-   www.bbc.co.uk/uzbek
-   www.tribune-uz.info
-   www.ozodlik.org
-   http://rustamzoda.narod.ru
-   www.ferghana.ru
+- www.bbc.co.uk/uzbek
+- www.tribune-uz.info
+- www.ozodlik.org
+- http://rustamzoda.narod.ru
+- www.ferghana.ru
 
-   People who contributed documents:
+People who contributed documents:
   
-   Kuvatov Abdulla
-   Matlabov Sodiq
-   Soriev Sherzod
+- Kuvatov Abdulla
+- Matlabov Sodiq
+- Soriev Sherzod
