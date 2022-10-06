@@ -36,6 +36,9 @@ Web-sites:
 - www.ozodlik.org
 - http://rustamzoda.narod.ru
 - www.ferghana.ru
+- https://www.gazeta.uz/oz/
+- https://daryo.uz/
+- https://kun.uz/uz
 
 People who contributed documents:
   
