@@ -31,11 +31,6 @@ and people who sent me all kinds of documents in Cyrillic Uzbek.
 
 Web-sites:
 
-- www.bbc.co.uk/uzbek
-- www.tribune-uz.info
-- www.ozodlik.org
-- http://rustamzoda.narod.ru
-- www.ferghana.ru
 - https://www.gazeta.uz/oz/
 - https://daryo.uz/
 - https://kun.uz/uz
